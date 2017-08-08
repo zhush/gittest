@@ -1,0 +1,5 @@
+[debug  ] Start Server ing...
+[release] Leaf 1.1.2 starting up
+[debug  ] Server OnInit!!
+[debug  ] read message: EOF
+[error  ] chanrpc error: function id CloseAgent: function not registered
